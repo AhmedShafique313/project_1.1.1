@@ -1,3 +1,9 @@
+.webname {
+    font: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
 body {
     margin: 0;
     padding: 0;
